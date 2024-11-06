@@ -49,5 +49,10 @@ namespace PROG2500_A2_Chinook
         {
             Application.Current.Shutdown();
         }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
